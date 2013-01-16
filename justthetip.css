@@ -1,0 +1,27 @@
+/* Just The Tip */
+
+.jttip {
+	font-size: 14px;
+	text-align: center;
+	float: left;
+	position: absolute;
+	margin-top: -5px;
+}
+
+.jttipcontent {
+	padding: 10px 10px 5px 10px;
+	background: #fff;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-box-shadow: 0 0 10px #999;
+	-moz-box-shadow: 0 0 10px #999;
+	border: 1px solid #bbd4fd;
+}
+
+.nubbin {
+	margin: 0 auto -7px auto;
+}
+
+.jttipcontent p {
+	padding: 0;
+}
